@@ -8,7 +8,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a679ea98492b9bd65987/maintainability)](https://codeclimate.com/github/brokeyourbike/has-source-model-laravel/maintainability)
 [![codecov](https://codecov.io/gh/brokeyourbike/has-source-model-laravel/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/has-source-model-laravel)
 
-Interface for interacting with source models
+Interface for interacting with source models.
 
 ## Installation
 
