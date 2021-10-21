@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v1.0.0...v1.0.1) (2021-10-21)
+
+
+### Miscellaneous Chores
+
+* rename repo ([7d99cf6](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/7d99cf6d98feb8a7244e661a5952071e710d904e))
+* update badges ([1b039de](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/1b039dea88335d494057d6979a684839148356d2))
+
 ## 1.0.0 (2021-10-19)
 
 
