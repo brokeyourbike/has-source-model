@@ -6,17 +6,17 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
 
-namespace BrokeYourBike\Tests\HasSourceModel;
-
-use BrokeYourBike\HasSourceModel\SourceModelInterface;
+namespace BrokeYourBike\HasSourceModel;
 
 /**
  * @author Ivan Stasiuk <brokeyourbike@gmail.com>
  */
-class ModelFixture implements SourceModelInterface
+interface SourceModelInterface
 {
-    public function getKey()
-    {
-        return 'model-primary-key';
-    }
+    /**
+     * Get the value of the model's primary key.
+     *
+     * @return mixed
+     */
+    public function getKey();
 }

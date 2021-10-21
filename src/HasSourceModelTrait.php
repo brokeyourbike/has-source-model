@@ -16,12 +16,12 @@ trait HasSourceModelTrait
     /**
      * Source model
      */
-    protected ?\Illuminate\Database\Eloquent\Model $sourceModel = null;
+    protected ?SourceModelInterface $sourceModel = null;
 
     /**
      * Returns the source model.
      */
-    public function getSourceModel(): ?\Illuminate\Database\Eloquent\Model
+    public function getSourceModel(): ?SourceModelInterface
     {
         return $this->sourceModel;
     }
@@ -29,7 +29,7 @@ trait HasSourceModelTrait
     /**
      * Updates the source model.
      */
-    public function setSourceModel(\Illuminate\Database\Eloquent\Model $sourceModel): void
+    public function setSourceModel(SourceModelInterface $sourceModel): void
     {
         $this->sourceModel = $sourceModel;
     }

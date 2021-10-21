@@ -16,10 +16,10 @@ interface HasSourceModelInterface
     /**
      * Returns the source model.
      */
-    public function getSourceModel(): ?\Illuminate\Database\Eloquent\Model;
+    public function getSourceModel(): ?SourceModelInterface;
 
     /**
      * Updates the source model.
      */
-    public function setSourceModel(\Illuminate\Database\Eloquent\Model $sourceModel): void;
+    public function setSourceModel(SourceModelInterface $sourceModel): void;
 }

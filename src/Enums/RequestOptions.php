@@ -6,17 +6,15 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
 
-namespace BrokeYourBike\Tests\HasSourceModel;
-
-use BrokeYourBike\HasSourceModel\SourceModelInterface;
+namespace BrokeYourBike\HasSourceModel\Enums;
 
 /**
  * @author Ivan Stasiuk <brokeyourbike@gmail.com>
  */
-class ModelFixture implements SourceModelInterface
+final class RequestOptions
 {
-    public function getKey()
-    {
-        return 'model-primary-key';
-    }
+    /**
+     * @var string
+     */
+    public const SOURCE_MODEL = 'source_model';
 }
