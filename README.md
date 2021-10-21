@@ -1,12 +1,12 @@
 # has-source-model
 
-[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/has-source-model)](https://github.com/brokeyourbike/has-source-model/releases)
-[![Total Downloads](https://poser.pugx.org/brokeyourbike/has-source-model/downloads)](https://packagist.org/packages/brokeyourbike/has-source-model)
-[![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/has-source-model/blob/main/LICENSE)
+[![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/has-source-model-laravel)](https://github.com/brokeyourbike/has-source-model-laravel/releases)
+[![Total Downloads](https://poser.pugx.org/brokeyourbike/has-source-model-laravel/downloads)](https://packagist.org/packages/brokeyourbike/has-source-model-laravel)
+[![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/has-source-model-laravel/blob/main/LICENSE)
 
-[![ci](https://github.com/brokeyourbike/has-source-model/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/has-source-model/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/brokeyourbike/has-source-model/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/has-source-model)
-[![Type Coverage](https://shepherd.dev/github/brokeyourbike/has-source-model/coverage.svg)](https://shepherd.dev/github/brokeyourbike/has-source-model)
+[![ci](https://github.com/brokeyourbike/has-source-model-laravel/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/has-source-model-laravel/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/brokeyourbike/has-source-model-laravel/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/has-source-model-laravel)
+[![Type Coverage](https://shepherd.dev/github/brokeyourbike/has-source-model-laravel/coverage.svg)](https://shepherd.dev/github/brokeyourbike/has-source-model-laravel)
 
 Interface for interacting with source models
 
@@ -42,4 +42,4 @@ class Client implements HasSourceModelInterface
 ```
 
 ## License
-[Mozilla Public License v2.0](https://github.com/brokeyourbike/has-source-model/blob/main/LICENSE)
+[Mozilla Public License v2.0](https://github.com/brokeyourbike/has-source-model-laravel/blob/main/LICENSE)
