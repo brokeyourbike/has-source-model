@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v2.0.1...v2.0.2) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([4580864](https://www.github.com/brokeyourbike/has-source-model-laravel/commit/458086439341e3513edfc43b4dfdc17d97c4fd8c))
+
 ### [2.0.1](https://www.github.com/brokeyourbike/has-source-model-laravel/compare/v2.0.0...v2.0.1) (2023-05-14)
 
 
